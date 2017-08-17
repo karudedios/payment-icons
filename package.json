@@ -3,7 +3,7 @@
   "version": "0.0.13",
   "description": "payment icon svgs",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "postinstall": "./node_nodules/payment-icons grunt default"
   },
   "repository": {
     "type": "git",
